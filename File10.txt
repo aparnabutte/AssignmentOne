@@ -1,0 +1,6 @@
+Assignmet One
+
+int Main()
+{
+Printf ("Print - ASSIGNMENT ONE");
+}
